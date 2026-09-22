@@ -1,0 +1,16 @@
+#orange-book {
+    width: 150px;
+    height:250px;
+    background-color: orange;
+}
+#book-top {
+    width: 150px;
+    height: 20px;
+    background-color:gainsboro;
+}
+#glassjar {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(231, 243, 246);
+    border-radius: 0 0px 80px 80px ;
+}
